@@ -7,7 +7,8 @@ The analysis focuses on estimating the probability of default to control the ris
 It deals with the outstanding payment amount and other variables.
 The analysis comes under the backdrop of the 2008 financial crisis that hit the banking sector badly jeopardizing other sectors as well across different countries in the world.
 
-Python, Jupyter notebook, pandas, plotly express libraries have mainly been utilised for ETL, EDA of the data given.
+Python, Jupyter notebook, pandas, plotly express, seaborn, scipy, matplotlib etc. libraries have mainly been utilised for ETL, EDA and inferential analyses of the data given.
 Various useful terms like bill of statement, outstanding amount, previous payment amount etc. have been defined.
 Thorough analysis of age, sex, education level, marital status of customers etc. wrt outstanding amounts has been done to understand the patterns of the data and to draw some useful suggestions for future consideration.
+CLT has been applied for inferential analyses and confidence intervals based on varous parameters have been calculated with 95% significance level.
 A detailed report has been prepared using MS Word.
